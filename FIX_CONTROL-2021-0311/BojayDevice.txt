@@ -1,0 +1,5 @@
+MCUPortName= COM28
+AnglePortName= COM30
+AnglePortName2 = COM29
+TempPortName= COM31
+
